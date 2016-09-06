@@ -1,3 +1,4 @@
-* [Português](pt-br/)
+* [Português](pt/)
 * [English](en/)
 * [Deutsch](de/)
+
