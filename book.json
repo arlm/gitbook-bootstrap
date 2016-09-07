@@ -1,6 +1,38 @@
 {
     "plugins": [
         "autocover",
-        "language-picker"
-    ]
+        "language-picker",
+        "exercises",
+        "youtube",
+        "bibtex-cite",
+        "bootstrap-callout"
+    ],
+    "pluginsConfig": {
+        "language-picker": {
+            "grid-columns": 3
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": true,
+            "vk": false,
+            "all": "facebook,google,twitter,weibo,instapaper"
+        },
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        }
+    }
 }
