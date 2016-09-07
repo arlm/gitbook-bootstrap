@@ -5,7 +5,7 @@
         "exercises",
         "youtube",
         "bibtex-cite",
-        "bootstrap-callout"
+        "callouts"
     ],
     "pluginsConfig": {
         "language-picker": {
@@ -33,6 +33,13 @@
             "background": {
                 "color": "#09F"
             }
-        }
+        },
+"callouts": { 
+"star": { "alert": "warning", "picto": "fa-star" },
+"primary": { "alert" : "primary"},
+ "info" : {},
+ "success": {},
+ "warning": {},
+ "danger": {}}
     }
 }
