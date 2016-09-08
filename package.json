@@ -1,0 +1,33 @@
+{
+  "name": "gitbook-bootstrap",
+  "version": "0.1.0",
+  "description": "A template for gitbook books",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-autocover": "^2.0.1",
+    "gitbook-plugin-bibtex-citation": "^1.1.1",
+    "gitbook-plugin-bibtex-cite": "^1.1.0",
+    "gitbook-plugin-callouts": "^0.1.1",
+    "gitbook-plugin-exercises": "^2.1.1",
+    "gitbook-plugin-language-picker": "^0.0.5",
+    "gitbook-plugin-youtube": "^1.1.0"
+  },
+  "devDependencies": {
+    "canvas": "^1.4.0",
+    "gitbook-cli": "^2.3.0",
+    "gitbook-convert": "^1.1.1"
+  },
+  "scripts": {
+   "book:prepare": "./node_modules/gitbook-cli/bin/gitbook.js install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://arlm@github.com/arlm/gitbook-bootstrap.git"
+  },
+  "author": "Alexandre Rocha Lima e Marcondes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arlm/gitbook-bootstrap/issues"
+  },
+  "homepage": "https://github.com/arlm/gitbook-bootstrap#readme"
+}

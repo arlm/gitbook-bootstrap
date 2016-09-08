@@ -1,5 +1,6 @@
 {
-    "title": "Tïtulo do Livro",
+    "output": "../bin/",
+    "title": "Título do Livro",
     "description": "Descrição do livro",
     "isbn": "",
     "language": "pt-br"

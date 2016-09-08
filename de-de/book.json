@@ -1,4 +1,5 @@
 {
+    "output": "../bin/",
     "title": "Buch Titel",
     "description": "Buch Description",
     "isbn": "",
