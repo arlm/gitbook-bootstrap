@@ -1,6 +1,12 @@
 {
-    "author": "",
-    "variables": {},
+    "author": "Author Name",
+    "variables": {
+        "authors": [
+            { "name": "Author 1" },
+            { "name": "Author 2" }
+        ],
+        "year": "2016"
+    },
     "pdf": {
         "toc": true,
         "pageNumbers": false,
@@ -12,8 +18,8 @@
             "top": 36,
             "bottom": 36
         },
-        "headerTemplate": "_TITLE_ por _AUTHOR_",
-        "footerTemplate": "<span style='float: left'>Copyright Azuris</span> <span style='float: right'>_PAGENUM_</span>"
+        "headerTemplate": "_TITLE_",
+        "footerTemplate": "<span style='float: left'>Copyright _AUTHOR_</span> <span style='float: right'>_PAGENUM_</span>"
     },
     "plugins": [
         "autocover",

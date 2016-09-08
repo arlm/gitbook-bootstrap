@@ -1,7 +1,6 @@
 {
-    "title": "",
-    "description": "",
+    "title": "Buch Titel",
+    "description": "Buch Description",
     "isbn": "",
-    "language": "de"
-
+    "language": "de-de"
 }
