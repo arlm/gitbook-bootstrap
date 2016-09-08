@@ -36,57 +36,56 @@
         },
         "callouts": {
             "note": {
-                alert: "primary",
-                picto: "fa-edit"
+                "alert": "primary",
+                "picto": "fa-edit"
             },
             "info": {
-                alert: "info",
-                picto: "fa-info"
+                "alert": "info",
+                "picto": "fa-info"
             },
             "tag": {
-                alert: "info",
-                picto: "fa-tag"
+                "alert": "info",
+                "picto": "fa-tag"
             },
             "comment": {
-                alert: "info",
-                picto: "fa-comment-o"
+                "alert": "info",
+                "picto": "fa-comment-o"
             },
-            /* success */
             "hint": {
-                alert: "success",
-                picto: "fa-lightbulb-o"
+                "alert": "success",
+                "picto": "fa-lightbulb-o"
             },
             "success": {
-                alert: "success",
-                picto: "fa-lightbulb-o"
+                "alert": "success",
+                "picto": "fa-lightbulb-o"
             },
             "warning": {
-                alert: "warning",
-                picto: "fa-exclamation-triangle"
+                "alert": "warning",
+                "picto": "fa-exclamation-triangle"
             },
             "caution": {
-                alert: "warning",
-                picto: "fa-exclamation-triangle"
+                "alert": "warning",
+                "picto": "fa-exclamation-triangle"
             },
             "todo": {
-                alert: "warning",
-                picto: "fa-bookmark"
+                "alert": "warning",
+                "picto": "fa-bookmark"
             },
             "danger": {
-                alert: "danger",
-                picto: "fa-times-circle"
+                "alert": "danger",
+                "picto": "fa-times-circle"
             },
             "fixme": {
-                alert: "danger",
-                picto: "fa-bug"
+                "alert": "danger",
+                "picto": "fa-bug"
             },
             "bug": {
-                alert: "danger",
-                picto: "fa-bug"
+                "alert": "danger",
+                "picto": "fa-bug"
             },
             "quote": {
-                alert: "quote",
-                picto: "fa-quote-left"
+                "alert": "quote",
+                "picto": "fa-quote-left"
             },
             "tip": {
                 "alert": "info",
