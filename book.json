@@ -34,12 +34,39 @@
                 "color": "#09F"
             }
         },
-"callouts": { 
-"star": { "alert": "warning", "picto": "fa-star" },
-"primary": { "alert" : "primary"},
- "info" : {},
- "success": {},
- "warning": {},
- "danger": {}}
+        "callouts": {
+            "tip": {
+                "alert": "info",
+                "picto": "fa-lightbulb-o"
+            },
+            "star": {
+                "alert": "info",
+                "picto": "fa-star" 
+            },
+            "primary": {
+                "alert": "primary",
+                "picto": "fa-thumb-tack"
+            },
+            "info" : {
+                "alert": "info",
+                "picto": "fa-info-circle"
+            },
+            "question" : {
+                "alert": "info",
+                "picto": "fa-question-circle"
+            },
+            "success": {
+                "alert": "success",
+                "picto": "fa-thumbs-o-up"
+            },
+            "warning": {
+                "alert": "warning",
+                "picto": "fa-exclamation-circle"
+            },
+            "danger": {
+                "alert": "danger",
+                "picto": "fa-bomb"
+            }
+        }
     }
 }
