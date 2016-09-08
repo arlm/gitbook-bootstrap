@@ -17,10 +17,22 @@ _book
 
 # Ignore
 ## The license file
-/LICENSE.md
+LICENSE.md
 
 ## The root README file
-/README.md
+README.md
 
-## he bibtex citation plugin data file
-/literature.bib
+## The bibtex citation plugin data file
+literature.bib
+
+## The output folder
+bin/
+
+## The images folder
+images/
+
+## The videos folder
+videos/
+
+## The sounds folder
+sounds/
