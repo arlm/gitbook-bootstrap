@@ -1,3 +1,3 @@
-* [Português](pt-br/)
-* [English](en/)
-* [Deutsch](de/)
+* [Português (Brazil](pt-br/)
+* [English (USA)](en-us/)
+* [Deutsch (Deutschland)](de-de/)

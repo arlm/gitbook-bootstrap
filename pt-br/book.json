@@ -1,20 +1,4 @@
 {
-    "author": "",
-    "variables": {},
-    "pdf": {
-        "toc": true,
-        "pageNumbers": false,
-        "fontSize": 8,
-        "paperSize": "a4",
-        "margin": {
-            "right": 69,
-            "left": 69,
-            "top": 36,
-            "bottom": 36
-        },
-        "headerTemplate": "_TITLE_ por _AUTHOR_",
-        "footerTemplate": "<span style='float: left'>Copyright Azuris</span> <span style='float: right'>_PAGENUM_</span>"
-    },
     "plugins": [
         "autocover",
         "language-picker",
